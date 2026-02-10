@@ -1,0 +1,5 @@
+br\com\academia\servlet\AlunoServlet.class
+br\com\academia\dao\AlunoDAO.class
+br\com\academia\model\Aluno.class
+br\com\academia\util\ConnectionFactory.class
+br\com\academia\TesteConexao.class
